@@ -149,3 +149,6 @@ h1,h3{
 .fontsize2 {
     font-size:1.2em;
 }
+.margin{
+    margin-bottom: 32px;
+}
